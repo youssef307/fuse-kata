@@ -17,6 +17,7 @@
   * [JavaScript](https://github.com/cahcommercial/fuse-kata/raw/master/javascript_audition.bundle)
   * [.NET](https://github.com/cahcommercial/fuse-kata/raw/master/net_audition.bundle)
   * [T-SQL/SSIS](https://github.com/cahcommercial/fuse-kata/raw/master/sql_audition.bundle)
+  * [Python](https://github.com/cahcommercial/fuse-kata/raw/master/python_audition.bundle)
 * Save the java_audition.bundle and javascript_audition.bundle to your system. These files are compressed git 
   repositories of empty project shells.
   * [Detailed instructions on how to use git bundles](https://git-scm.com/blog/2010/03/10/bundles.html).
